@@ -1,14 +1,11 @@
 # python_openai_telegram_bot
 Personal python chatbot similar to chatgpt
 
-# packages required
-openai
-
-python-telegram-bot
-
-pyyaml
 
 # Usage
+## Package Install
+Install the following packages: openai, python-telegram-bot, pyyaml
+
 ## Telegram setup
 https://core.telegram.org/bots/tutorial
 
